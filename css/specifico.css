@@ -1,13 +1,15 @@
 
 .contactButton {
-  background: #242427;
+  background: #000000;
   color: white;
   font-family:'Noto Serif', serif;
   padding-left: 1em;
   font-size: 40px;
   font-weight: 900;
-  border-radius: 0.9em;
-  border-color: #000000;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #e6e6e6;
   cursor: pointer;
   letter-spacing: 0.05em;
   display: flex;
